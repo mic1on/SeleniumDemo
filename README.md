@@ -3,3 +3,7 @@
 
 
 ##### 阿里滑块 基于 挖总的Demo https://github.com/EnjoyScraping/SeleniumReality
+知识点：
+  - 初中加速度的实现
+  - 防止浏览器检测ChromeDriver
+  - Selenium-ActionChains的应用
